@@ -162,17 +162,17 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: From the view of game theory: a new model for hyperscanning multi-subject interaction paradigm(in press)
+        authors: BEI Litian; JIANG Ke; LI Xianchun; XIONG Zhehong
+        Journal: Advances in Psychological Science, 2019
+        
+      - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach
+        authors: Li Xianchun, Bei Litian, Yuan Di, Ding Yana, Feng Danyang
+        Journal: Journal of Psychological Science, 2018
+        
+      - title: Brain-to-brain Coupling during Emergence of Social Communication System Based on Novel Symbol(in press)
+        authors: Danni Chen, Jieqiong Liu, Ruqian Zhang, Litian Bei & Xianchun Li
+        Journal: Conference poster of the 25th OHBM Annual Meeting. (June 10-13, 2019, Rome, Italy)
 
 skills:
     title: Skills &amp; Proficiency
@@ -190,11 +190,11 @@ skills:
       - name: Excel & VBA
         level: 70%
 
-      - name: Ruby on Rails
+      - name: Powerpoint & Photoshop
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: R 
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
