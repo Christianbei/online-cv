@@ -15,7 +15,7 @@ sidebar:
     email: beilitian@163.com
     phone: 
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    linkedin: 
     github: sharu725
     gitlab:
     bitbucket:
@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Toefl 103
+        level: Toefl 103 & GRE 322
 
       - idiom: Spanish
         level: EEE-8
@@ -187,8 +187,8 @@ skills:
       - name: E-prime
         level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Excel & VBA
+        level: 70%
 
       - name: Ruby on Rails
         level: 85%
