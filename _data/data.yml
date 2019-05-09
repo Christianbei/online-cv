@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: beilitian@163.com
     phone: 18862241579
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: 
     github: 
     gitlab:
@@ -41,11 +41,11 @@ sidebar:
       - item: Jogging
         link:
 
-      - item: Writing film and book reviews and scientific fictions
+      - item: Writing reviews and fictions
         link:
 
-career-profile:
-    title: Career Profile
+Profile:
+    title: Profile
     summary: |
       Summarise your career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
@@ -83,50 +83,26 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data anlysist intern
+      time: 2019 - Present
+      company: WX Labs, Shanghai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Analysis of data and visualization of reports
 
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
+    - role: Project Manageer
       time: 2014 - 2015
-      company: Google, London
+      company: Success Partners Management Consulting Co. Ltd, Shanghai
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-projects:
+          - Market research& analysis--Specialized in environment analysis, responsible for market analysis of five main products
+in this start-up company and intelligence gathering
+          - Business assistant--Served as assistant and interpreter for the American CEO in business meetings
+          - Translation--finalized the Chinese version of all the marketing materials; developed a translation SOP for the company
+          
+projects
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
