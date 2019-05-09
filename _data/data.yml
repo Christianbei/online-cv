@@ -61,25 +61,6 @@ education:
       time: 2010 - 2014
       details: |
 
-
-publications:
-    title: Publications
-    intro: |
-
-    papers:
-      - title: From the view of game theory--a new model for hyperscanning multi-subject interaction paradigm(in press)
-        authors: BEI Litian; JIANG Ke; LI Xianchun; XIONG Zhehong
-        conference: Advances in Psychological Science, 2019
-        
-      - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach
-        link: "https://www.psysci.org/EN/abstract/abstract10250.shtml"
-        authors: Li Xianchun, Bei Litian, Yuan Di, Ding Yana, Feng Danyang
-        conference: Journal of Psychological Science, 2018
-        
-      - title: Brain-to-brain Coupling during Emergence of Social Communication System Based on Novel Symbol(in press)
-        authors: Danni Chen, Jieqiong Liu, Ruqian Zhang, Litian Bei & Xianchun Li
-        conference: Conference poster of the 25th OHBM Annual Meeting (June 10-13, 2019, Rome, Italy)
-
 experiences:
 
     - role: Data anlysiss intern
@@ -99,7 +80,28 @@ experiences:
           - Business assistant--Served as assistant and interpreter for the American CEO
           - Translation--finalized the Chinese version of all the marketing materials; developed a translation SOP for the company
           
-#projects:
+
+
+publications:
+    title: Publications
+    intro: |
+
+    papers:
+      - title: From the view of game theory--a new model for hyperscanning multi-subject interaction paradigm(in press)
+        authors: BEI Litian; JIANG Ke; LI Xianchun; XIONG Zhehong
+        conference: Advances in Psychological Science, 2019
+        
+      - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach
+        link: "https://www.psysci.org/EN/abstract/abstract10250.shtml"
+        authors: Li Xianchun, Bei Litian, Yuan Di, Ding Yana, Feng Danyang
+        conference: Journal of Psychological Science, 2018
+        
+      - title: Brain-to-brain Coupling during Emergence of Social Communication System Based on Novel Symbol(in press)
+        authors: Danni Chen, Jieqiong Liu, Ruqian Zhang, Litian Bei & Xianchun Li
+        conference: Conference poster of the 25th OHBM Annual Meeting (June 10-13, 2019, Rome, Italy)
+
+
+projects:
     title: Rearch Projects
     intro: >
 
