@@ -45,15 +45,9 @@ sidebar:
         link:
 
 Profile:
-    title: Profile
+    title: Personal Statement
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Interested in how does moertality threat influence human decision making such as coordination and competition
 
 education:
     - degree: MSc in Psychology
@@ -119,11 +113,8 @@ working experiences:
           - Translation--finalized the Chinese version of all the marketing materials; developed a translation SOP for the company
           
 projects:
-    title: 项目
+    title: Rearch Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Brain-to-brain Coupling during Emergence of Social Communication; 
@@ -156,7 +147,7 @@ skills:
       - name: Powerpoint & Photoshop
         level: 85%
 
-      - name: R (learning)
+      - name: R (still learning)
         level: 20%
 
 footer: >
