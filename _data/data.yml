@@ -44,7 +44,7 @@ sidebar:
       - item: Writing reviews and fictions
         link:
 
-Profile:
+Career Profile:
     title: Personal Statement
     summary: |
       Interested in how does moertality threat influence human decision making such as coordination and competition
@@ -98,10 +98,9 @@ experiences:
       time: 2019 - Present
       company: WX Labs, Shanghai
       details: |
-        Analysis of data and visualization of reports
-
-          - Bullet point
-          - Bullet point
+         
+          - Analysis of data
+          - Visualization of reports
 
     - role: Project Manageer
       time: 2014 - 2015
