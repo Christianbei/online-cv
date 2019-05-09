@@ -86,6 +86,7 @@ publications:
         conference: Advances in Psychological Science, 2019
         
       - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach
+        link: "https://www.psysci.org/EN/abstract/abstract10250.shtml"
         authors: Li Xianchun, Bei Litian, Yuan Di, Ding Yana, Feng Danyang
         conference: Journal of Psychological Science, 2018
         
@@ -117,11 +118,11 @@ projects:
 
     assignments:
       - title: Brain-to-brain Coupling during Emergence of Social Communication; 
-        link: "#hook"
+        #link: "https://www.psysci.org/EN/abstract/abstract10250.shtml"
         tagline: "A project in order to reveal the dual-brain neural mechanisam during a collaborating game"
 
       - title: Effects of mortality threat on interpersonal coordination and competition--an EEG hyperscanning study
-        link: "#"
+        #link: "#"
         tagline: "A project about exploring the impact of mortality threat on coordinative and competitive behaviors and its neural mechanisam"
 
 
