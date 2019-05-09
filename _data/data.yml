@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Bei Litian
@@ -82,6 +82,26 @@ education:
           - Bullet point
           - Bullet point
 
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+
+    papers:
+      - title: From the view of game theory--a new model for hyperscanning multi-subject interaction paradigm(in press)
+        authors: BEI Litian; JIANG Ke; LI Xianchun; XIONG Zhehong
+        conference: Advances in Psychological Science, 2019
+        
+      - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach
+        authors: Li Xianchun, Bei Litian, Yuan Di, Ding Yana, Feng Danyang
+        conference: Journal of Psychological Science, 2018
+        
+      - title: Brain-to-brain Coupling during Emergence of Social Communication System Based on Novel Symbol(in press)
+        authors: Danni Chen, Jieqiong Liu, Ruqian Zhang, Litian Bei & Xianchun Li
+        conference: Conference poster of the 25th OHBM Annual Meeting (June 10-13, 2019, Rome, Italy)
+
 experiences:
     - role: Data anlysist intern
       time: 2019 - Present
@@ -118,25 +138,7 @@ projects:
         tagline: "A project about exploring the impact of mortality threat on coordinative and competitive behaviors and its neural mechanisam"
 
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
-    papers:
-      - title: From the view of game theory--a new model for hyperscanning multi-subject interaction paradigm(in press)
-        authors: BEI Litian; JIANG Ke; LI Xianchun; XIONG Zhehong
-        conference: Advances in Psychological Science, 2019
-        
-      - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach
-        authors: Li Xianchun, Bei Litian, Yuan Di, Ding Yana, Feng Danyang
-        conference: Journal of Psychological Science, 2018
-        
-      - title: Brain-to-brain Coupling during Emergence of Social Communication System Based on Novel Symbol(in press)
-        authors: Danni Chen, Jieqiong Liu, Ruqian Zhang, Litian Bei & Xianchun Li
-        conference: Conference poster of the 25th OHBM Annual Meeting (June 10-13, 2019, Rome, Italy)
 
 skills:
     title: Skills &amp; Proficiency
