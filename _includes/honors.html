@@ -1,34 +1,26 @@
 {% assign honors = site.data.data.honors %}
 {% if honors %}
 <section class="section honors-section">
+
   <h2 class="section-title">
     <span class="fa-stack fa-xs">
       <i class="fas fa-circle fa-stack-2x"></i>
-      <i class="fas fa-briefcase fa-stack-1x fa-inverse"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
     </span>
-    Honors and Awards
+    {{ honors.title }}
   </h2>
 
-  {% for honors in honors %}
+  {% if honors.intro %}
+  <div class="intro">
+    {{ honors.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for honors in honors.papers %}
   <div class="item">
-
-    <div class="meta">
-
-      <div class="upper-row">
-        <h3 class="job-title">{{ honors.role }}</h3>
-        <div class="time">{{ honors.time }}</div>
-      </div><!--//upper-row-->
-
-      <div class="company">{{ honors.company }}</div>
-
-    </div><!--//meta-->
-
-    {% if honors.details %}
-    <div class="details">
-      {{ honors.details | markdownify }}
-    </div><!--//details-->
-    {% endif %}
-
+    <div class="honors-title">{{ honors.title }}</div>
+    <div class="honors-authors">{{ honors.authors }}</div>
+    <div class="honors-conference">{{ honors.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
