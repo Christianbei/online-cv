@@ -51,34 +51,33 @@ career-profile:
 
 education:
     - degree: Master in Fundamental Psychology
-      university: East China Normal University
+      university: East China Normal University, China
       time: 2016 - 2019
       details: |
-        
-
+          - GPA: 3.67
     - degree: BA in Spanish Litterature
-      university: Soochow University
+      university: Soochow University, China
       time: 2010 - 2014
       details: |
-
+          - GPA: 3.69
 experiences:
 
-    - role: Data anlysiss intern
+    - role: Data anlysis intern
       time: 2019 - Present
       company: WX Labs, Shanghai
       details: |
          
-          - Data Analysis: Confirmatory factor analysis
-          - Generating Reports: Visualization of Data
+          - DParticipated in the development of assessment using confirmatory factor analysis method; 
+          - Was in charge of the visualization of data collected and generation of reports
 
     - role: Project Manageer
       time: 2014 - 2015
       company: Success Partners Management Consulting Co. Ltd, Shanghai
       details: |
 
-          - Market research& analysis--Specialized in environment analysis, responsible for market analysis of five main products in this start-up company and intelligence gathering
+          - Market research & analysis--Specialized in environment analysis, responsible for market analysis of five main products in this start-up company and intelligence gathering
           - Business assistant--Served as assistant and interpreter for the American CEO
-          - Translation--finalized the Chinese version of all the marketing materials; developed a translation SOP for the company
+          - Translation--Finalized the Chinese version of all the marketing materials; developed a translation SOP for the company
           
 
 
