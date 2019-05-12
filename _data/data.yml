@@ -50,13 +50,13 @@ career-profile:
       Interested in how does moertality threat influence human decision making such as coordination and competition
 
 education:
-    - degree: MSc in Psychology
+    - degree: Master in Fundamental Psychology
       university: East China Normal University
       time: 2016 - 2019
       details: |
         
 
-    - degree: BSc in Spanish Litterature
+    - degree: BA in Spanish Litterature
       university: Soochow University
       time: 2010 - 2014
       details: |
@@ -68,8 +68,8 @@ experiences:
       company: WX Labs, Shanghai
       details: |
          
-          - Analysis of data
-          - Visualization of reports
+          - Data Analysis: Confirmatory factor analysis
+          - Generating Reports: Visualization of Data
 
     - role: Project Manageer
       time: 2014 - 2015
@@ -92,7 +92,6 @@ publications:
         conference: Advances in Psychological Science, 2019
         
       - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach
-        link: "https://www.psysci.org/EN/abstract/abstract10250.shtml"
         authors: Li Xianchun, Bei Litian, Yuan Di, Ding Yana, Feng Danyang
         conference: Journal of Psychological Science, 2018
         
@@ -100,7 +99,10 @@ publications:
         authors: Danni Chen, Jieqiong Liu, Ruqian Zhang, Litian Bei & Xianchun Li
         conference: Conference poster of the 25th OHBM Annual Meeting (June 10-13, 2019, Rome, Italy)
 
-
+      - title: Combining Terror Management and Life History Perspectives--An Integrated Model for the Effect of Mortality Threat(under review)
+        authors: BEI Litian; XIONG Zhehong
+        conference: 
+        
 projects:
     title: Rearch Projects
     intro: >
