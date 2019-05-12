@@ -54,12 +54,12 @@ education:
       university: East China Normal University, China
       time: 2016 - 2019
       details: |
-          - GPA: 3.67
+
     - degree: BA in Spanish Litterature
       university: Soochow University, China
       time: 2010 - 2014
       details: |
-          - GPA: 3.69
+
 experiences:
 
     - role: Data anlysis intern
@@ -67,7 +67,7 @@ experiences:
       company: WX Labs, Shanghai
       details: |
          
-          - DParticipated in the development of assessment using confirmatory factor analysis method; 
+          - Participated in the development of assessment using confirmatory factor analysis method; 
           - Was in charge of the visualization of data collected and generation of reports
 
     - role: Project Manageer
@@ -115,17 +115,18 @@ projects:
 
 
 honors:
-
-    - role: Best Position Holding Award in the 2nd MUN conference of Soochow University
+papers:
+      
+    - title:: Best Position Holding Award in the 2nd MUN conference of Soochow University
       time: 2010     
 
-    - role: Best Secretariat of Association of Science and Technology from the School of Foreign Languages, Soochow University
+    - title:: Best Secretariat of Association of Science and Technology from the School of Foreign Languages, Soochow University
       time: 2011
       
-    - role: Award of Best Report from the School of Foreign Languages, Soochow University
+    - title:: Award of Best Report from the School of Foreign Languages, Soochow University
       time: 2011
       
-    - role: Academic Scholarships from the School of Psychology and Congnitive Science, East China Normal University
+    - title:: Academic Scholarships from the School of Psychology and Congnitive Science, East China Normal University
       time: 2016-2019
 
 
