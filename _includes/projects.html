@@ -19,8 +19,7 @@
   {% for project in projects.assignments %}
     <div class="item">
     
-      <span class="project-title">
-      </span>
+      <span class="project-title">{{ project.title }}</span>
 
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
