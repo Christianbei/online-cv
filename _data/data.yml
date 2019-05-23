@@ -91,11 +91,11 @@ publications:
     intro: |
 
     papers:
-      - title: From the View of Game Theory--a New Model for Hyperscanning Multi-Subject Interaction Paradigm
+      - title: From the View of Game Theory--a New Model for Hyperscanning Multi-Subject Interaction Paradigm (in Chinese)
         authors: BEI Litian; JIANG Ke; LI Xianchun; XIONG Zhehong
         conference: Advances in Psychological Science, 2019
         
-      - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach
+      - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach (in Chinese)
         authors: Li Xianchun, Bei Litian, Yuan Di, Ding Yana, Feng Danyang
         conference: Journal of Psychological Science, 2018
         
@@ -147,9 +147,6 @@ skills:
 
       - name: E-prime
         level: 90%
-
-      - name: Excel & VBA
-        level: 70%
 
       - name: mplus
         level: 60%
