@@ -60,7 +60,7 @@ education:
                      - Research area: Evolutionary Pschology, Social Cognitive Neuroscience
                      - Thesis title: Effects of mortality threat on interpersonal coordination and competition--an EEG hyperscanning study
 
-    - degree: BA in Spanish Litterature
+    - degree: Bachelor in Spanish Litterature
       university: Soochow University, China
       time: 2010 - 2014
       details: |
@@ -99,17 +99,17 @@ publications:
     papers:
       - title: From the View of Game Theory--a New Model for Hyperscanning Multi-Subject Interaction Paradigm (in Chinese)
         link: "http://journal.psych.ac.cn/xlkxjz/EN/10.3724/SP.J.1042.2019.01284"
-        authors: BEI Litian; JIANG Ke; LI Xianchun; XIONG Zhehong
+        authors: Litian Bei; Ke Jiang; Xianchun Li; Zhehong Xiong
         conference: Advances in Psychological Science, 2019
         
       - title: The Brain-to-Brain Correlates of Social Interaction in the Perspective of Hyperscanning Approach (in Chinese)
         link: "https://www.psysci.org/EN/abstract/abstract10250.shtml"
-        authors: Li Xianchun, Bei Litian, Yuan Di, Ding Yana, Feng Danyang
+        authors: Xianchun Li, Litian Bei, Di Yuan, Yana Ding, Danyang Feng
         conference: Journal of Psychological Science, 2018
         
       - title: Effects of Mortality Threat on Interpersonal Coordination and Competition--An EEG Hyperscanning Study (in Chinese)
         link: "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CMFD&dbname=CMFD201902&filename=1019835133.nh&v=MzA2MzMzcVRyV00xRnJDVVI3cWZiK2RwRnlIbVVML0tWRjI2Rjd1N0c5RFBySkViUElSOGVYMUx1eFlTN0RoMVQ="
-        authors: Bei Litian
+        authors: Litian Bei
         conference: Master Thesis, East China Normal University
         
       - title: Brain-to-brain Coupling during Emergence of Social Communication System Based on Novel Symbol (poster)
@@ -120,12 +120,9 @@ publications:
         authors: Xiaoyu Zhou, Yafeng Pan, Ruqian Zhang, Litian Bei & Xianchun Li
         conference: 
 
-      - title: Combining Terror Management and Life History Perspectives--An Integrated Model for the Effect of Mortality Threat (under review)
-        authors: BEI Litian; XIONG Zhehong
+      - title: A Theoretical Exploration of Death-related Information Processing--the Comparation, Analysis and Integration of Terror Management Theory and Life History-Sensitization Model (under review)
+        authors: Litian Bei; Ke Jiang
         conference: 
-
-      - title: Mortality Threat Enhances Social Coordinative Behaviors and Interbrain Synchrony (Manuscript in preparation)
-        authors: BEI Litian
         
 projects:
     title: Rearch Projects
@@ -159,7 +156,7 @@ skills:
         level: 90%
 
       - name: SPSS & Amos
-        level: 90%
+        level: 85%
 
       - name: E-prime
         level: 90%
