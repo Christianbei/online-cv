@@ -59,7 +59,7 @@ education:
       university: East China Normal University, China
       time: 2016 - 2019
       details: |
-            - Research area: Evolutionary Pschology, Social Cognitive Neuroscience
+            - Research area: Evolutionary Pschology & Social Cognitive Neuroscience
 
     - degree: Bachelor of Spanish Litterature
       university: Soochow University, China
@@ -69,10 +69,10 @@ education:
 experiences:
     - role: Clerk of of Urban Construction Office
       time: 2019.7 - Present
-      company: Zhongxiu Subdistrict Office, Jiangsu
+      company: Zhongxiu Subdistrict Office (钟秀街道办事处), Jiangsu
       details: |
          
-          - Contributed to urban construction and population census
+          - Contributed to urban construction and demographic census
     
     - role: Data Anlysis Intern
       time: 2019.1 - 2019.7
@@ -134,9 +134,7 @@ honors:
     intro: |
 
       - Awarded as 'Best Report Writer' in Soochow University Summer Research Competition in 2011
-      
       - Awarded of Academic Scholarships from 2016 to 2019
-      
       - Third Prize of Chongchuan Governmental Writing Competition in 2020
 
 
