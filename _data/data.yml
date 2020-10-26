@@ -34,28 +34,28 @@ sidebar:
       - idiom: Spanish
         level: EEE-8
 
-    interests:
-      - item: 
-        link:
+#    interests:
+#      - item: 
+#        link:
 
-      - item: 
-        link:
+#      - item: 
+#        link:
         
-      - item: 
-        link:
+#      - item: 
+#        link:
         
-      - item: 
-        link:
+#      - item: 
+#        link:
 
 career-profile:
     title: Additional Information
     summary: |
-      Interests include reading, wirting, translating, art movies and linguistics ;
-      Keep updating reviews and fictions in Bilibili with 2000+ followers;
-      Served as an editor of a Neural Science textbook in 2020
+      -Interests include reading, wirting, translating, art movies and linguistics ;
+      -Keep updating reviews and fictions in Bilibili with 2000+ followers;
+      -Served as an editor of a Neural Science textbook in 2020
 
 education:
-    - degree: Master of Fundamental Psychology
+    - degree: Master of General Psychology
       university: East China Normal University, China
       time: 2016 - 2019
       details: |
